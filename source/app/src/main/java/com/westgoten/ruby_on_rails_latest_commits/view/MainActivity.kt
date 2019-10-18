@@ -1,4 +1,4 @@
-package com.westgoten.ruby_on_rails_latest_commits.view.activity
+package com.westgoten.ruby_on_rails_latest_commits.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
