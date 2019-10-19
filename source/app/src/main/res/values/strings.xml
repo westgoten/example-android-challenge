@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">MyGithubCommits</string>
+    <string name="app_name">Ruby on Rails commits</string>
+    <string name="commit_hash_format">Commit: %.13s</string>
 </resources>
