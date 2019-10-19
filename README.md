@@ -1,7 +1,7 @@
 ## Ruby on Rails latest commits
 A quick app to practice Kotlin and MVVM
 
-[image](screenshots/solution.png)
+![image](screenshots/solution.png)
 
 ## The Solution
 See [source](source).
